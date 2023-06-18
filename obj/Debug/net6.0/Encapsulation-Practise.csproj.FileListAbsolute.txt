@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\bin\Debug\net6.0\Encapsulation-Practise.exe
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\bin\Debug\net6.0\Encapsulation-Practise.deps.json
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\bin\Debug\net6.0\Encapsulation-Practise.runtimeconfig.json
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\bin\Debug\net6.0\Encapsulation-Practise.dll
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\bin\Debug\net6.0\Encapsulation-Practise.pdb
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.dll
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\refint\Encapsulation-Practise.dll
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.pdb
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\Encapsulation-Practise.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\Encapsulation-Practise\Encapsulation-Practise\obj\Debug\net6.0\ref\Encapsulation-Practise.dll
